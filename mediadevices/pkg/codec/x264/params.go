@@ -1,9 +1,9 @@
 package x264
 
 import (
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/codec"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/io/video"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/prop"
 )
 
 // Params stores libx264 specific encoding parameters.

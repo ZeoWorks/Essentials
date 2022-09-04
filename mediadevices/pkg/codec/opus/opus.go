@@ -6,11 +6,11 @@ import (
 	"io"
 	"sync"
 
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/io/audio"
-	"github.com/pion/mediadevices/pkg/prop"
-	"github.com/pion/mediadevices/pkg/wave"
-	"github.com/pion/mediadevices/pkg/wave/mixer"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/codec"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/io/audio"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/prop"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/wave"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/wave/mixer"
 )
 
 /*

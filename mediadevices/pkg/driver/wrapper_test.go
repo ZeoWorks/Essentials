@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/pion/mediadevices/pkg/io/audio"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/io/audio"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/io/video"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/prop"
 )
 
 var (

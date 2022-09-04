@@ -11,11 +11,11 @@ import (
 	"unsafe"
 
 	"github.com/gen2brain/malgo"
-	"github.com/pion/mediadevices/internal/logging"
-	"github.com/pion/mediadevices/pkg/driver"
-	"github.com/pion/mediadevices/pkg/io/audio"
-	"github.com/pion/mediadevices/pkg/prop"
-	"github.com/pion/mediadevices/pkg/wave"
+	"github.com/ZeoWorks/Essentials/mediadevices/internal/logging"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/driver"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/io/audio"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/prop"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/wave"
 )
 
 const (

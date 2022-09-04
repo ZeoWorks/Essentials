@@ -12,11 +12,11 @@ import (
 	"github.com/pion/rtcp"
 
 	"github.com/google/uuid"
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/driver"
-	"github.com/pion/mediadevices/pkg/io/audio"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/wave"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/codec"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/driver"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/io/audio"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/io/video"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/wave"
 	"github.com/pion/rtp"
 	"github.com/pion/webrtc/v3"
 )

@@ -9,10 +9,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/codec/internal/codectest"
-	"github.com/pion/mediadevices/pkg/frame"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/codec"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/codec/internal/codectest"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/frame"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/prop"
 )
 
 func TestEncoder(t *testing.T) {

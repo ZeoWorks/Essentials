@@ -14,10 +14,10 @@ import (
 	"sync"
 
 	"github.com/blackjack/webcam"
-	"github.com/pion/mediadevices/pkg/driver"
-	"github.com/pion/mediadevices/pkg/frame"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/driver"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/frame"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/io/video"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/prop"
 )
 
 const (

@@ -1,7 +1,7 @@
 package mediadevices
 
 import (
-	"github.com/pion/mediadevices/pkg/driver"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/driver"
 )
 
 // RegisterDriverAdapter allows user space level of driver registration

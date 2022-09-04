@@ -4,9 +4,9 @@ package openh264
 import "C"
 
 import (
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/codec"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/io/video"
+	"github.com/ZeoWorks/Essentials/mediadevices/pkg/prop"
 )
 
 // Params stores libopenh264 specific encoding parameters.
