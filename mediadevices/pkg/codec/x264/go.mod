@@ -1,4 +1,4 @@
-module x264.go
+module github.com/ZeoWorks/Essentials/mediadevices/pkg/codec/x264
 
 go 1.19
 
